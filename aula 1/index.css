@@ -1,0 +1,44 @@
+/*COMENTAR*/
+body {
+    background-color: blue;
+    
+}
+
+
+
+p#unico-1{
+    color: beige;
+}
+.qualquer{
+    color: blueviolet;
+}
+p{
+    color: brown;
+}
+
+
+
+header{
+    border: 5px solid royalblue;
+
+    padding: 60px;
+}
+h1{
+    border: 1px solid goldenrod;
+
+    height: 68px;
+
+    display: inline;
+} 
+p{
+    margin: 20px;
+
+    border: 4px solid yellow;
+
+    display: inline;
+}
+span{ 
+    border: 5px solid red;
+
+    display: block;
+}
